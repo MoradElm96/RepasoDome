@@ -1,0 +1,44 @@
+<Compras>
+  <Cliente id="1">
+     <articulo>
+       <cod_articulo>1</cod_articulo>
+       <cantidad>2</cantidad>
+     </articulo>
+     <articulo>
+       <cod_articulo>4</cod_articulo>
+       <cantidad>1</cantidad>
+     </articulo>
+     <articulo>
+       <cod_articulo>6</cod_articulo>
+       <cantidad>2</cantidad>
+     </articulo>
+  </Cliente>
+  <Cliente id="2">
+    <articulo>
+      <cod_articulo>2</cod_articulo>
+      <cantidad>4</cantidad>
+    </articulo>
+    <articulo>
+      <cod_articulo>6</cod_articulo>
+      <cantidad>1</cantidad>
+    </articulo>
+  </Cliente>
+  <Cliente id="3">
+     <articulo>
+       <cod_articulo>3</cod_articulo>
+       <cantidad>6</cantidad>
+     </articulo>
+	 <articulo>
+       <cod_articulo>5</cod_articulo>
+       <cantidad>2</cantidad>
+     </articulo>
+	 <articulo>
+       <cod_articulo>1</cod_articulo>
+       <cantidad>6</cantidad>
+     </articulo>
+	 <articulo>
+       <cod_articulo>2</cod_articulo>
+       <cantidad>2</cantidad>
+     </articulo>
+  </Cliente>
+</Compras>
