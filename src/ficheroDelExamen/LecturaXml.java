@@ -43,6 +43,7 @@ public class LecturaXml {
             if(node.getNodeType()== Node.ELEMENT_NODE){
              Element elemento=(Element)node.getChildNodes();
              id=elemento.getAttribute("id");
+             //sin acabar
            //  if()
            //3 hijos articulos, si tiene 3 nodos y cada uno tiene dos nodos 
                 
